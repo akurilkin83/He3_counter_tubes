@@ -1,0 +1,18 @@
+to run example:
+
+cd build;
+
+cmake ../;
+
+make -j4;
+
+. ./run.sh
+
+output root file in results folder
+
+to change the gass mixture, pressure and diameter of counters go to ./include and change parameters in He3_counterParameters.hh
+
+
+
+
+
