@@ -12,7 +12,7 @@ output root file in results folder
 
 to change the gass mixture, pressure and diameter of counters go to ./include and change parameters in He3_counterParameters.hh
 
-
+Energy of neutron beam and its distribution can bee changed in ./src/He3_counterPrimaryGeneratorAction.cc
 
 
 
